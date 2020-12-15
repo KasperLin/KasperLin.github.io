@@ -1,1 +1,13 @@
+title: At the End of the Day
+author:
+  name: Kasper
+  email: kasperlin@icloud.com
+description: >
+  Welcome to my little space on the internet. 
+social_links: 
+  twitter: Kasper
+  github: KasperLin
 theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
