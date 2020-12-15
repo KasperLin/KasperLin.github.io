@@ -1,7 +1,10 @@
 title: At the End of the Day
 author: Kasper
+header_pages: 
+  - about.md
 description: >
   Welcome to my little space on the internet. 
+show_excerpts: true
 avatar: https://kasper-picbed.oss-cn-shenzhen.aliyuncs.com/Profile.jpg
 social_links: 
   twitter: Kasper
