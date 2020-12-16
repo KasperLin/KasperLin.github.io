@@ -2,4 +2,4 @@
 layout: home
 ---
 
-## Hi there!👋
+Hi there!👋
