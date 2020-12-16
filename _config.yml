@@ -1,10 +1,10 @@
 title: At the End of the Day
 author: Kasper
 header_pages: 
-  - about.md
-  - notes.md
-  - blogs.md
-  - tags.md
+  - Bar/about.md
+  - Bar/notes.md
+  - Bar/blogs.md
+  - Bar/tags.md
 description: >
   Welcome to my little space on the internet. 
 show_excerpts: true
