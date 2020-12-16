@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Test Notes
-categories: Notes
+categories: notes
 ---
