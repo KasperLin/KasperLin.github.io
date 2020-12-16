@@ -2,6 +2,7 @@
 layout: post
 title: "Hello World!"
 categories: blogs
+tags: moments
 ---
 
 Hello World!
