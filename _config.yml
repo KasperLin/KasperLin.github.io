@@ -12,3 +12,5 @@ social_links:
   twitter: Kasper
   github: KasperLin
 theme: minima
+plugins:
+  - jekyll-feed
