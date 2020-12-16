@@ -3,6 +3,7 @@ author: Kasper
 header_pages: 
   - about.md
   - notes.md
+  - blogs.md
 description: >
   Welcome to my little space on the internet. 
 show_excerpts: true
