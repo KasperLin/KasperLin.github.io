@@ -1,5 +1,7 @@
-title: At the End of the Day
 author: Kasper
+name  : At the End of the Day
+title : At the End of the Day
+url   : https://kasperlin.github.io/
 header_pages: 
   - Bar/about.md
   - Bar/notes.md
