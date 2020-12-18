@@ -1,3 +1,4 @@
+- Shall we talk 
 - Apple 
 - Make Microsoft Cool Again
 - 文明的刻度
