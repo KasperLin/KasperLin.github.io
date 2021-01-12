@@ -3,10 +3,10 @@ name  : At the End of the Day
 title : At the End of the Day
 url   : https://kasperlin.github.io/
 header_pages: 
-  - Bar/about.md
-  - Bar/notes.md
-  - Bar/blogs.md
-  - Bar/tags.md
+  - Nav/about.md
+  - Nav/notes.md
+  - Nav/blogs.md
+  - Nav/tags.md
 description: >
   Welcome to my little space on the internet. 
 show_excerpts: true
